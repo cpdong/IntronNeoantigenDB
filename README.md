@@ -8,7 +8,7 @@ Intron retain derived neoantigen annotation and prediction
 Dong C, Liu Y(2020). IntronNeoantigeDB: a database for potential human intron derived neoantigen.(2020)
 
 ## Author
-Chuanpeng DOng
+Chuanpeng Dong
 
 ## Maintainer
 Chuanpeng Dong <cpdong@iu.edu>
