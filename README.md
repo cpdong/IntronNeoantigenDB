@@ -26,4 +26,4 @@ Here, we present IntronNeoantigenDB(intron retain derived neoantigen) to query t
 
 
 ## System requirement
-To successfully run the example below, we strongly recommend at least 4GB memory for the PC/laptop/Work station. The example has been successfully performed on a MacBook laptop with a 1.7 GHz processor and 8 GB memory.
+None.
