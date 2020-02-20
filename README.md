@@ -1,8 +1,5 @@
 # IntronNeoantigenDB
-A curated query database for human intron retain derived neoantigen explorer.
-
-# IntronNeoantigenDB
-Intron retain derived neoantigen annotation and prediction
+A curated query database for human intron retain derived neoantigen  annotation and prediction.
 
 ## prepare for submission
 Dong C, Liu Y(2020). IntronNeoantigeDB: a database for potential human intron derived neoantigen.(2020)
